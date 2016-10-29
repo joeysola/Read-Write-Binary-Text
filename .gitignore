@@ -61,3 +61,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Read-Write-Binary-Text/nbproject/private/
+/RWBT/nbproject/private/
+/RWBT/build/
